@@ -13,18 +13,20 @@ To load the dataset, you can use the read_csv() method of pandas library. In thi
 
 ## Preprocessing Data
 Preprocessing the data is an important step before building a prediction model. In this code, we will perform the following preprocessing steps:
+```
 Drop columns with more than 50% missing values
 Drop irrelevant columns
 Drop columns related to future or post loan
 Encode categorical variables
 Fill missing values with median
+```
 
 ## Creating Feature Matrix and Target Variable
-The next step is to define the feature matrix and target variable. In this code, we will define the target variable as a binary variable that takes the value 1 if the loan is fully paid and 0 otherwise. 
+The next step is to define the feature matrix and target variable. In this code, we will define the target variable as a binary variable that takes the value `1` if the loan is fully paid and `0` otherwise. 
 We will also define the feature matrix that consists of all the remaining columns in the dataset.
 
 ## Splitting Data into Training and Testing Sets
-To evaluate the model's performance, we need to split the dataset into training and testing sets. In this code, we will split the dataset into 80% training data and 20% testing data using the `train_test_split()` method from the `sklearn.model_selection` module.
+To evaluate the model's performance, we need to split the dataset into training and testing sets. In this code, we will split the dataset into `80%` training data and `20%` testing data using the `train_test_split()` method from the `sklearn.model_selection` module.
 
 ## Training the Model
 The next step is to train the model using Logistic Regression. In this code, we will use the `LogisticRegression()` method from the `sklearn.linear` model module to train the model.
