@@ -38,4 +38,4 @@ model predicts that the loan will be fully repaid or not. If the model predicts 
 
 Investors can also use prediction models to help diversify their investment portfolio. By using models like this one to predict the likelihood of loan repayment, investors can make more informed decisions about which loans to invest in and how to balance their investment portfolio.
 
-Overall, prediction models can be a useful tool for investors in making investment decisions, but it is important to keep in mind that no model is perfect and there is always some level of risk involved in investing. It is important to use multiple sources of information and to make informed and well-researched investment decisions.
+Overall, prediction models can be a useful tool for investors in making investment decisions, but it is important to keep in mind that no model is perfect and there is always some level of risk involved in investing. 
