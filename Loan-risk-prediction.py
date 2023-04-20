@@ -53,5 +53,6 @@ new_data = pd.DataFrame({'term_36 months': [0], 'term_60 months': [1], 'loan_amn
 
 logreg.predict(new_data)
 
+Output:
 
 array([1])
