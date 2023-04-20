@@ -1,12 +1,13 @@
 # LOAN RISK PREDICTION
 
 ## Required Libraries
+```
 pandas: A library used for data manipulation and analysis.
 numpy: A library used for scientific computing.
 sklearn.linear_model: A module used for implementing various linear models, such as Logistic Regression.
 sklearn.model_selection: A module used for splitting the dataset into training and testing sets.
 sklearn.metrics: A module used for evaluating the model's performance.
-
+```
 ## Loading Data
 To load the dataset, you can use the read_csv() method of pandas library. In this code, the dataset is loaded from a CSV file named `lending_club_data.csv`.
 
