@@ -34,7 +34,9 @@ To evaluate the model's performance, we will calculate the accuracy score on the
 ## Using the Prediction Model for Investment Decisions
 Investors can use prediction models to make informed decisions about their investment portfolio. In this code, the prediction model can be used to predict whether a loan will be fully repaid or not. Based on this prediction, investors can decide whether to invest in a particular loan or not. If the model predicts that the loan will be fully repaid, then the investor can consider investing in that loan.
 
-model predicts that the loan will be fully repaid or not. If the model predicts that the loan is likely to be fully repaid, the investor may feel more confident in investing in that loan. On the other hand, if the model predicts that the loan is not likely to be fully repaid, the investor may choose not to invest in that loan or to invest with caution.
+The output indicates that the model predicts that the loan will be fully repaid.
+
+Investors can use prediction models like this one to help inform their investment decisions. For example, if an investor is considering investing in a loan, they can input the loan information into the model to see if the model predicts that the loan will be fully repaid or not. If the model predicts that the loan is likely to be fully repaid, the investor may feel more confident in investing in that loan. On the other hand, if the model predicts that the loan is not likely to be fully repaid, the investor may choose not to invest in that loan or to invest with caution.
 
 Investors can also use prediction models to help diversify their investment portfolio. By using models like this one to predict the likelihood of loan repayment, investors can make more informed decisions about which loans to invest in and how to balance their investment portfolio.
 
